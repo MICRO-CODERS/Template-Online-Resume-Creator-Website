@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+#cv-template {
+    display: none;
+
+}
+.myimg {
+    
+    border-radius:50%;
+    width: 200px;;
+
+}
+.background {
+    background-color: rgb(68, 70, 72);
+}
+
+.txtcolor{
+    color: aliceblue;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-family: 'Tilt Neon', cursive;
+}
+.div-color{
+    background-color: beige;
+}
+
+.btn-color{
+    background-color: rgb(236, 175, 175);
+    border-color: rgb(226, 164, 164);
+    color: black;
+}
+
+.btn-color:hover {
+    background-color: rgb(234, 116, 116);
+    border-color: rgb(242, 152, 152);
+}
+
+.mybackground{
+    background-image: url('./dottedimage.jpg');
+    /* background-repeat: ; */
+}
+.extralinks{
+    text-decoration: none;
+    color: aliceblue;
+}
+.extralinks:hover{
+    color: orange;
+    font-size: 15px;
+}
+
+#social{
+    font-size: 30px;
+    color: orangered;
+}
+/* .input-color{
+    background-color: rgb(243, 237, 249);
+} */
